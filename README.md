@@ -41,3 +41,28 @@ This research is classified into 2 steps:
 
 </br></br>
 
+### ◘ Study Flowchart
+![alt text](https://github.com/shahriar-rahman/EDA-Amazon-Scraped-Data/blob/main/img/FlowChart.png)
+
+</br></br>
+
+### ◘ Methodologies & Technologies applied
+* Look for data inconsistencies
+* Diagnose and fix structural errors
+* Check and Clean data
+* Address duplication
+* Univariate inspection
+* Bivariate inspection
+* Feature correlations
+* Seaborn & Matplotplib visualizations
+
+</br></br>
+
+### ◘ Required Packages
+* pandas~=2.0.3
+* missingno~=0.5.2
+* seaborn~=0.12.2
+* matplotlib~=3.7.0
+
+</br></br>
+
