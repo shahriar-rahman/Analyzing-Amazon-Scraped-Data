@@ -66,3 +66,38 @@ This research is classified into 2 steps:
 
 </br></br>
 
+◘ Jupyter core packages
+* IPython : 8.10.0
+* ipykernel : 6.19.2
+* ipywidgets : 7.6.5
+* jupyter_client : 7.3.4
+* jupyter_core : 5.2.0
+* jupyter_server : 1.23.4
+* jupyterlab : 3.5.3
+
+</br></br>
+
+## Project Organization
+---------------------------------------------------------
+
+    ├── LICENSE
+    |
+    ├── README.md            # The top-level README for developers using this project
+    ├── scraping_data        # Scraped Data stored in various formats
+    │   ├── csv              
+    │   ├── excel          
+    │   └── json            
+    │
+    ├── img                    # Contains Project related files
+    │   
+    ├── graphs                # Graphs generated from the scraped data
+    │
+    ├── requirements.txt        # The requirements file for reproducing the analysis environment
+    │                         			
+    │  
+    ├── notebook                # ipynb script for data exploration
+    │                         			
+     
+---------------------------------------------------------
+
+</br></br>
