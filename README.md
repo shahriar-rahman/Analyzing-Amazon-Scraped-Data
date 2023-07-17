@@ -1,7 +1,7 @@
 # Feature analysis of Amazon-Scraped Data 
 ===========================================================================
-An Exploratory Data analysis of Amazon data which was scraped using Selenium Webdriver, an automation crawling tool for web-scraping.
-This data analytic research is a follow-up to the project [Scraping Amazon Products based on a User Search](https://github.com/shahriar-rahman/Amazon-Product-Scraping)
+An Exploratory Data analysis of Amazon data which was scraped using Selenium Webdriver, an automation crawling tool for web scraping.
+This data analytic research is a follow-up to the project [Scraping Amazon Products based on a User Search](https://github.com/shahriar-rahman/Amazon-Product-Scraping).
 
 </br></br>
 
