@@ -34,9 +34,9 @@ This research is classified into 2 steps:
 2. Analyse Missing Values
 3. Inquire about Duplicate units, if any
 4. Analyze Data using:
-  * Univariate Analysis
-  * Bivariate Analysis
-  * Multivariate Analysis
+* Univariate Analysis
+* Bivariate Analysis
+* Multivariate Analysis
 5. Save the processed data set.
 
 </br></br>
